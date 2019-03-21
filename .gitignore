@@ -1,0 +1,6 @@
+*.zip
+*.mexw32
+*.mexw64
+es4mgh_af.m
+es4mgh_test.m
+es4mgh_test2.m
